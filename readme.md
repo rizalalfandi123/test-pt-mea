@@ -1,0 +1,1 @@
+* Pastikan install ts-node
